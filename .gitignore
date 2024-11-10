@@ -1,0 +1,7 @@
+.idea
+.DS_Store
+urloader
+tools/builds
+upload*
+*.debug
+dist
